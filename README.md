@@ -1,11 +1,8 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV1ZHVpeG90YXZ0dW4xajRvNHQ0MzNkNTBkbjg3YnZhNDdwdTdmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif]" width="100"/>
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeLH9kyRdthPJt69D6DP9F9SARc95tC4Pp3I9ZQqV3Mi4uSF4ta6FZJKe4sSky5lne1w&usqp=CAU]" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=fentsioq&style=flat-square&color=blue" alt=""/>
-<div id="badges">
-  <img src=[https://img.shields.io/badge/just%20chill%20guy-8A2BE2] alt="Chill Guy"/>
-</div>
 <!--
 **FentsioQ/FentsioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
