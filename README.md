@@ -1,19 +1,15 @@
-## Hi there 👋
+## Приветствую 👋
 <div id="header" align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCeLH9kyRdthPJt69D6DP9F9SARc95tC4Pp3I9ZQqV3Mi4uSF4ta6FZJKe4sSky5lne1w&usqp=CAU]" width="100"/>
+  <img src="https://media2.giphy.com/media/Tg9jENf7x11tdJnyMQ/giphy.gif" width="150"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=fentsioq&style=flat-square&color=blue" alt=""/>
-<!--
-**FentsioQ/FentsioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 В данный момент изучаю Python.
+- ⚡ Чиловый парень
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :fire: My Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=FentsioQ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="FentsioQ's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FentsioQ&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="FentsioQ's GitHub Stats" />
