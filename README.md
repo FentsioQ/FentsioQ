@@ -4,7 +4,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=fentsioq&style=flat-square&color=blue" alt=""/>
 
-- 🌱 В данный момент изучаю Python.
+- 🌱 
 - ⚡ Чиловый парень
 
 ---
